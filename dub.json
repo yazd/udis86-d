@@ -1,6 +1,6 @@
 {
   "name": "udis86-d",
-  "description": "udis86 disassembler library wrapper",
+  "description": "udis86 disassembler library binding",
   "copyright": "Copyright © 2014, Yazan Dabain",
   "authors": ["Yazan Dabain"],
   "license": "BSD 2-clause",
